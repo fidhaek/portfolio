@@ -238,7 +238,7 @@ export default function Home() {
             YN
           </div>
           <h1 className="text-5xl md:text-6xl font-bold text-gray-800 mb-6">
-            Hi, I'm <span className="text-blue-600">Fidha Eranikkal</span>
+            Hi, I am <span className="text-blue-600">Fidha Eranikkal</span>
           </h1>
           <p className="text-xl text-gray-600 mb-8 max-w-2xl mx-auto">
             A passionate developer creating beautiful and functional web experiences
@@ -268,11 +268,11 @@ export default function Home() {
             <div>
               <h3 className="text-2xl font-semibold text-gray-800 mb-4">My Journey</h3>
               <p className="text-gray-600 leading-relaxed mb-4">
-                I'm a passionate developer who loves creating amazing web experiences. 
+                I am a passionate developer who loves creating amazing web experiences. 
                 I started my coding journey and have been constantly learning and growing ever since.
               </p>
               <p className="text-gray-600 leading-relaxed">
-                When I'm not coding, you can find me exploring new technologies. 
+                When I am not coding, you can find me exploring new technologies. 
                 I believe in continuous learning and always strive to improve my skills.
               </p>
             </div>
@@ -341,9 +341,9 @@ export default function Home() {
           <div className="bg-white rounded-2xl shadow-lg p-8">
             <div className="grid md:grid-cols-2 gap-12">
               <div>
-                <h3 className="text-2xl font-semibold text-gray-800 mb-6">Let's Connect</h3>
+                <h3 className="text-2xl font-semibold text-gray-800 mb-6">Lets Connect</h3>
                 <p className="text-gray-600 mb-6">
-                  I'm always open to discussing new opportunities, creative ideas, 
+                  Iam always open to discussing new opportunities, creative ideas, 
                   or just having a friendly chat about technology.
                 </p>
                 <div className="space-y-4">
